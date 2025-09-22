@@ -1,19 +1,18 @@
 # 📊 [Dataset Name]
 
-This repository contains information and documentation related to the **[Dataset Name]**, used in the study *"[Your Article Title]"*.  
+This repository contains information and documentation related to the sillar, used in the study *"[Your Article Title]"*.  
 
 ---
 
 ## 📂 Description
 
 The dataset includes:
-- [Number of images / samples]
-- [File format, e.g., JPG, PNG, CSV, MAT, etc.]
-- [Main categories or labels]
-- [Brief description of how the data was collected]
+- 3000 images
+- File format,PNG
+- digital camera 
 
-Example:  
-> The dataset contains **500 PNG images** of sillar buildings, classified into two categories: *healthy surface* and *surface with humidity/wear*.
+
+> The dataset contains 3000 PNG images of sillar buildings. Each building was divided into multiple images, which are organized in folders named building_1, building_2, etc.
 
 ---
 
@@ -21,7 +20,7 @@ Example:
 
 The full dataset is available at the following link:  
 
-👉 [Download dataset from Google Drive](https://drive.google.com/your-drive-link)  
+👉 [Download dataset from Google Drive](https://drive.google.com/file/d/1zhINH0o2i4pOAyOgbcw_q20r3UT-QS_b/view?usp=sharing)  
 
 > ⚠️ Note: Due to the dataset size, it is hosted on Google Drive.
 
