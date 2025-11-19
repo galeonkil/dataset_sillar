@@ -1,6 +1,6 @@
 # 📊 Detection of Moisture and Surface Wear in Sillar Heritage Structures Using Deep Learning in Arequipa’s Architectural Heritage
 
-This repository contains information and documentation related to the sillar, used in the study *"[Your Article Title]"*.  
+This repository contains information and documentation related to the sillar, used in the study Detection of Moisture and Surface Wear in Sillar Heritage Structures Using Deep Learning in Arequipa’s Architectural Heritage.  
 
 ---
 
@@ -28,12 +28,12 @@ The full dataset is available at the following link:
 
 ## ⚖️ License
 
-This dataset is distributed under the **[Creative Commons / MIT / CC-BY-4.0]** license.  
+This dataset is distributed under the  license.  
 Please cite this resource if used in future research.  
 
 ---
 
 ## 📌 How to Cite
 
-If you use this dataset, please cite it as follows:  
+If you use this dataset, please cite it as follows:  Valderrama Solis, F.A.; Nuñez Rodriguez, E.J.; Valderrama Solis, M.A.; Palomino Bellido, W.A. Detection of Moisture and Surface Wear in Sillar Heritage Structures Using Deep Learning in Arequipa’s Architectural Heritage. Architecture 2025, 5, 112. https://doi.org/10.3390/architecture5040112
 
